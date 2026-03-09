@@ -61,4 +61,9 @@ line_highlights: 22-29,31-38
 
 </div>
 
+
+<div class="c-project-output">
+
 ![ADD](images/step6.png)
+
+</div>

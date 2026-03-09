@@ -76,7 +76,11 @@ transform: rotate(-15deg);
 --- /task ---
 
 
+<div class="c-project-output">
+
+Here are some examples of sticker experiments
 
 ![A group of five colourful digital stickers.](images/stickers-finished.png)
 
+</div>
 

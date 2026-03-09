@@ -50,4 +50,9 @@ line_highlights: 14-16,18-20
 --- /task ---
 </div>
 
+
+<div class="c-project-output">
+
 ![ADD](images/step7.png)
+
+</div>

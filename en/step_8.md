@@ -32,6 +32,7 @@ line_highlights: 40-44,46-50
   padding: 15px;
   border-radius: 150px;
 }
+--- /code ---
 --- task ---
 
 **Test:** Click **Run** to see the styles change.
@@ -39,4 +40,8 @@ line_highlights: 40-44,46-50
 --- /task ---
 </div>
 
+
+<div class="c-project-output">
+
 ![ADD](images/step7.png)
+</div>
