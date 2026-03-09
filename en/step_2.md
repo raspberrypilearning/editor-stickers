@@ -34,10 +34,18 @@ line_highlights: 9
 </div>
 
 
+
 <div class="c-project-callout c-project-callout--tip">
 
 ### Tip
 
-`<br>` gives a new line. 
+You give something an id in HTML, like `id="coding"` and then you use the same id in the CSS so it knows which bit to change.
+
 </div>
 
+
+<div class="c-project-output">
+
+![ADD](images/step2.png)
+
+</div>

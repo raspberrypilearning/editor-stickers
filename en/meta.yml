@@ -3,7 +3,7 @@ Title: Stickers
 hero_image: images/stickers.png
 theme: orange
 duration: 2
-listed: true
+listed: false
 ingredient: false
 copyedit: false
 curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
@@ -18,15 +18,19 @@ software: html-css-javascript
 version: 3
 last_tested: 2017-01-01
 steps:
-- title: What you will make
-- title: Colourful coding sticker
-- title: HTML & CSS sticker
+- title: Step 1
+- title: Step 2
+- title: Step 3
+- title: Step 4
+- title: Step 5
+- title: Step 6
+- title: Step 7
   completion:
   - engaged
-- title: Fancy robot sticker
+- title: Step 8
   completion:
   - internal
-- title: Challenge
+- title: Step 9
   challenge: true
   completion:
   - external

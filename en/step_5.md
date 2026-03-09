@@ -1,50 +1,42 @@
-
---- challenge ---
-
-### Create your own gradient
+<h2 class="c-project-heading--task">Add more stickers</h2>
 
 --- task ---
 
-Add a `<div>` with your sticker text to `index.html` and give it the `sticker` class and a new `id`.
+Add two more sticker messages to your page.
 
 --- /task ---
 
 --- task ---
 
-In `style.css`, add styling for the `id` you chose. You could copy one of the sticker styles you have already made and edit that.
+In `index.html`, add some more stickers with the code below. 
 
 --- /task ---
 
-There’s a list of all the colour names you can use: [jumpto.cc/web-colours](http://jumpto.cc/web-colours), which includes colour names like `tomato`, `firebrick` and `peachpuff`.
+<div class="c-project-code">
 
-If you want to change the text colour you can use `color:`.
+--- code ---
+---
+language: html
+filename: index.html
+line_numbers: true
+line_number_start: 7
+line_highlights: 10,12
+---
+  <body>
 
-Here’s an example of what you can do with multiple colours in a linear gradient:
+    <div class="sticker" id="coding">I <3 <br> Coding</div>
+    <div class="sticker" id="web">HTML & CSS</div>
+    <div class="sticker" id="save">Save the <br>Robots</div>
+  </body>
+--- /code ---
 
-![Rainbow linear gradient with the white text 'Save the Robots'](images/stickers-save-robots.png)
-
---- /challenge ---
-
---- challenge ---
-
-### Make more stickers
 
 --- task ---
 
-Make more stickers using different gradient directions and adding images and text and using borders and outlines. 
+**Test:** Click **Run**. You should see your two new text.
 
 --- /task ---
 
-**Tip**: You'll need to add HTML and CSS for each sticker. 
+</div>
 
-You can copy and edit one of your examples and make changes to create a new sticker. 
-
-Your project already includes a set of robot images. Click on the images icon to see the available images. 
-
---- /challenge ---
-
---- print-only ---
-
-![A group of five colourful digital stickers.](images/stickers-finished.png)
-
---- /print-only ---
+![ADD](images/step5.png)
