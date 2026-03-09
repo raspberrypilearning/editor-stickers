@@ -1,3 +1,11 @@
+<h2 class="c-project-heading--task">Colourful coding sticker</h2>
+
+--- task ---
+
+Make an 'I <3 Coding' sticker. 
+
+--- /task ---
+
 ## Fancy robot sticker 
 
 ### Add an image
@@ -148,6 +156,7 @@ line_number_start:
 
 Rotate the text using `transform: rotate`.
 
+<div class="c-project-code">
 --- code ---
 ---
 language: css
@@ -169,3 +178,5 @@ line_number_start:
 **Tip**: Try changing the number of degrees that the text is rotated. 
 
 --- /task ---
+
+</div>

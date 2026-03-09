@@ -42,3 +42,9 @@ You can copy and edit one of your examples and make changes to create a new stic
 Your project already includes a set of robot images. Click on the images icon to see the available images. 
 
 --- /challenge ---
+
+--- print-only ---
+
+![A group of five colourful digital stickers.](images/stickers-finished.png)
+
+--- /print-only ---

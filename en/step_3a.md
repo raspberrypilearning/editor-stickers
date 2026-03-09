@@ -1,34 +1,31 @@
-
-<h2 class="c-project-heading--task">Style the text</h2>
+<h2 class="c-project-heading--task">Style the background</h2>
 
 --- task ---
 
-Use CSS to style the text for your sticker.
+Add to how the sticker looks with a gradient background and padding.
 
 --- /task ---
 
 
 --- task ---
 
-Click on the file icon, and the `style.css` file.
-
-![screenshot](images/css-file.png)
+Add the to the CSS with the code below.
 
 --- /task ---
 
 
 --- task ---
 
-Add the CSS code below to style the text that uses the id `coding`.
+Try replacing `red` and `magenta` with other options. You can find more CSS colour names [here](http://jumpto.cc/colours){:target="_blank"}.
 
 --- /task ---
-
 
 --- task ---
 
-Experiment with the font. You could try changing the `font-family` to `Impact`, `Comic Sans MS`, or `Trebuchet MS`. You can also change the font-weight and the font-size.
+Experiment with `padding` and `border-radius` to change how the sticker looks.
 
 --- /task ---
+
 
 <div class="c-project-code">
 --- code ---
@@ -51,6 +48,9 @@ line_highlights:
   color: black;
   font-family: "Courier New";
   text-align: center;
+  background: linear-gradient(red, magenta);
+  padding: 50px 30px;
+  border-radius: 20px;
 }
 --- /code ---
 
@@ -59,12 +59,4 @@ line_highlights:
 **Run** your code. See how it has changed the style.
 
 --- /task ---
-
-</div>
-
-
-<div class="c-project-output">
-
-![ADD](images/step3.png)
-
 </div>
