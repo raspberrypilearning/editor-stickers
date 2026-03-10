@@ -23,10 +23,23 @@ Add the CSS code below to style the text that uses the id `coding`.
 
 --- /task ---
 
+<div class="c-project-callout c-project-callout--tip">
+
+### Tip
+
+An `id` is added to HTML, and used in the CSS so the styles are changed in the right place.
+
+</div>
+
 
 --- task ---
 
-Experiment with the font. You could try changing the `font-family` to `Impact`, `Comic Sans MS`, or `Trebuchet MS`. You can also change the font-weight and the font-size.
+Experiment with the font. You could try changing the `font-family` to: 
+- `Impact`
+- `Comic Sans MS`
+- `Trebuchet MS`. 
+
+You can also change the font-weight and the font-size.
 
 --- /task ---
 
@@ -36,8 +49,8 @@ Experiment with the font. You could try changing the `font-family` to `Impact`, 
 language: css
 filename: style.css
 line_numbers: true
-line_number_start: 12
-line_highlights:
+line_number_start: 5
+line_highlights: 12-18
 ---
 .sticker {
   display: inline-block;

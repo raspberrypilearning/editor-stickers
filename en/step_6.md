@@ -19,8 +19,8 @@ In **style.css** add styles for `#web` and `#save`. Experiment with the CSS unti
 language: css
 filename: style.css
 line_numbers: true
-line_number_start: 1
-line_highlights: 22-29,31-38
+line_number_start: 12
+line_highlights: 23-30, 32-39
 ---
 #coding {
   font-size: 40px;

@@ -11,7 +11,7 @@ Make some new stickers with robot images.
 
 Choose an image from the pictures tab..
 
-![The sidebar with image gallery selected and images of banana, dough and tomatoes](images/recipe-images.png){:style=“width:50%;“}
+![The sidebar with image gallery selected](images/images.png){:style=“width:50%;“}
 
 --- /task ---
 
@@ -30,7 +30,7 @@ language: html
 filename: index.html
 line_numbers: true
 line_number_start: 9
-line_highlights: 14-16,18-20
+line_highlights: 13-15
 ---
     <div class="sticker" id="coding">I &lt;3 <br> Coding</div>
     <div class="sticker" id="web">HTML &amp; CSS</div>

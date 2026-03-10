@@ -29,18 +29,6 @@ line_highlights: 9
 **Run** your code. Try adding your own text.
 
 --- /task ---
-
-
-</div>
-
-
-
-<div class="c-project-callout c-project-callout--tip">
-
-### Tip
-
-You give something an id in HTML, like `id="coding"` and then you use the same id in the CSS so it knows which bit to change.
-
 </div>
 
 

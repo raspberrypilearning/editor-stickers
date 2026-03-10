@@ -20,16 +20,16 @@ language: html
 filename: index.html
 line_numbers: true
 line_number_start: 7
-line_highlights: 10,12
+line_highlights: 10-11
 ---
   <body>
 
     <div class="sticker" id="coding">I <3 <br> Coding</div>
     <div class="sticker" id="web">HTML & CSS</div>
     <div class="sticker" id="save">Save the <br>Robots</div>
+  
   </body>
 --- /code ---
-
 
 --- task ---
 
