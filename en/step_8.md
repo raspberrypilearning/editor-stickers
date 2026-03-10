@@ -43,5 +43,5 @@ line_highlights: 41-45
 
 <div class="c-project-output">
 
-![ADD](images/step7.png)
+![ADD](images/step8.png)
 </div>
