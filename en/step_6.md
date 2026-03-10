@@ -26,7 +26,7 @@ line_highlights: 23-30, 32-39
   font-size: 40px;
   font-weight: bold;
   color: black;
-  font-family: "Courier New";
+  font-family: Courier New;
   background: linear-gradient(red, magenta);
   padding: 50px 30px;
   border-radius: 20px;

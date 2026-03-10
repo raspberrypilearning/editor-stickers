@@ -40,7 +40,7 @@ line_highlights: 18-20
   font-size: 40px;
   font-weight: bold;
   color: black;
-  font-family: "Courier New";
+  font-family: Courier New;
   text-align: center;
   background: linear-gradient(red, magenta);
   padding: 50px 30px;

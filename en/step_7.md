@@ -9,7 +9,7 @@ Make some new stickers with robot images.
 
 --- task ---
 
-Choose an image from the pictures tab..
+Choose an image from the pictures tab.
 
 ![The sidebar with image gallery selected](images/images.png){:style=“width:50%;“}
 
