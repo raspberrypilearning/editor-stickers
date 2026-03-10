@@ -50,7 +50,7 @@ language: css
 filename: style.css
 line_numbers: true
 line_number_start: 5
-line_highlights: 12-18
+line_highlights: 11-17
 ---
 .sticker {
   display: inline-block;
