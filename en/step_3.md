@@ -66,14 +66,14 @@ line_highlights: 12-18
   text-align: center;
 }
 --- /code ---
-
+</div>
 --- task ---
 
 **Run** your code. See how it has changed the style.
 
 --- /task ---
 
-</div>
+
 
 
 <div class="c-project-output">

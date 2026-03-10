@@ -33,12 +33,13 @@ line_highlights: 41-45
   border-radius: 150px;
 }
 --- /code ---
+</div>
 --- task ---
 
 **Test:** Click **Run** to see the styles change.
 
 --- /task ---
-</div>
+
 
 
 <div class="c-project-output">

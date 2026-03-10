@@ -42,13 +42,13 @@ line_highlights: 13-15
 
   </body>
 --- /code ---
-
+</div>
 --- task ---
 
 **Test:** Click **Run** to see the styles change.
 
 --- /task ---
-</div>
+
 
 
 <div class="c-project-output">

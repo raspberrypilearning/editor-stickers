@@ -30,14 +30,14 @@ line_highlights: 10-11
   
   </body>
 --- /code ---
-
+</div>
 --- task ---
 
 **Test:** Click **Run**. You should see your two new text.
 
 --- /task ---
 
-</div>
+
 
 
 <div class="c-project-output">

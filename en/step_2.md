@@ -23,13 +23,13 @@ line_highlights: 9
 
 </body>
 --- /code ---
-
+</div>
 --- task ---
 
 **Run** your code. Try adding your own text.
 
 --- /task ---
-</div>
+
 
 
 <div class="c-project-output">

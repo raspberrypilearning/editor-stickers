@@ -51,7 +51,7 @@ line_highlights: 23-30, 32-39
   text-align: center;
 }
 --- /code ---
-
+</div>
 
 --- task ---
 
@@ -59,7 +59,7 @@ line_highlights: 23-30, 32-39
 
 --- /task ---
 
-</div>
+
 
 
 <div class="c-project-output">
