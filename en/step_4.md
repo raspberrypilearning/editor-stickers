@@ -9,7 +9,7 @@ Add to how the sticker looks with a gradient background and padding.
 
 --- task ---
 
-Add the to the CSS with the code below.
+Add to the CSS with the code below.
 
 --- /task ---
 
