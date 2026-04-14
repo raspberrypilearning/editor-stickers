@@ -1,13 +1,9 @@
 
 <h2 class="c-project-heading--task">Challenges</h2> 
 
+Make more stickers using different gradient directions and adding images and text and using borders and outlines.
+
 ### Step 1
-
-Make more stickers using different gradient directions and adding images and text and using borders and outlines. 
-
-
-
-### Step 2
 
 ### Change the gradient direction
 
@@ -30,7 +26,7 @@ background: linear-gradient(to bottom left, white, yellow, tomato);
 
 
 
-### Step 3
+### Step 2
 
 ### Make outlines
 
@@ -53,7 +49,7 @@ outline-offset: 2px;
 
 
 
-### Step 4
+### Step 3
 
 ### Rotate 
 

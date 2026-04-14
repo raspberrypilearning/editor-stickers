@@ -1,11 +1,8 @@
 <h2 class="c-project-heading--task">Style the new stickers</h2>
 
-### Step 1
-
 Use gradients, shadows, and padding to style your new stickers.
 
-
-### Step 2
+### Step 1
 
 In **style.css** add styles for `#web` and `#save`. Experiment with the CSS until you are happy with the look.
 
@@ -51,7 +48,7 @@ line_highlights: 23-30, 32-39
 --- /code ---
 </div>
 
-### Step 3
+### Step 2
 
 **Test:** Click **Run** to see the styles change.
 

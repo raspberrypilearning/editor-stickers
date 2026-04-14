@@ -1,9 +1,8 @@
 <h2 class="c-project-heading--task">Add your first sticker</h2>
 
+Make an 'I <3 Coding' sticker.
+
 ### Step 1
-
-Make an 'I <3 Coding' sticker. 
-
 
 Add a new sticker in the `index.html`.
 

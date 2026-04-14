@@ -1,23 +1,19 @@
 <h2 class="c-project-heading--task">Style the background</h2>
 
-### Step 1
-
 Add to how the sticker looks with a gradient background and padding.
 
-
-
-### Step 2
+### Step 1
 
 Add to the CSS with the code below.
 
 
 
-### Step 3
+### Step 2
 
 Try replacing `red` and `magenta` with other options. You can find more CSS colours [here](http://jumpto.cc/colours){:target="_blank"}.
 
 
-### Step 4
+### Step 3
 
 Experiment with `padding` and `border-radius` to change how the sticker looks.
 
@@ -44,7 +40,7 @@ line_highlights: 18-20
 }
 --- /code ---
 </div>
-### Step 5
+### Step 4
 
 **Run** your code. See how it has changed the style.
 

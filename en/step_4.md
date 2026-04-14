@@ -1,11 +1,8 @@
 <h2 class="c-project-heading--task">Add more stickers</h2>
 
-### Step 1
-
 Add two more sticker messages to your page.
 
-
-### Step 2
+### Step 1
 
 In `index.html`, add some more stickers with the code below. 
 
@@ -29,7 +26,7 @@ line_highlights: 10-11
   </body>
 --- /code ---
 </div>
-### Step 3
+### Step 2
 
 **Test:** Click **Run**. You should see your two new text.
 
