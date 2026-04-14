@@ -17,20 +17,20 @@ hardware: ''
 software: html-css-javascript
 version: 3
 last_tested: 2017-01-01
+landing: true
 steps:
-- title: Step 1
-- title: Step 2
-- title: Step 3
-- title: Step 4
-- title: Step 5
-- title: Step 6
-- title: Step 7
-  completion:
-  - engaged
-- title: Step 8
-  completion:
-  - internal
-- title: Step 9
-  challenge: true
-  completion:
-  - external
+  - title: Add your first sticker
+  - title: Style the text
+    completion:
+      - engaged
+  - title: Style the background
+  - title: Add more stickers
+  - title: Style the new stickers
+  - title: Add an image sticker
+    completion:
+      - internal
+  - title: Style the image sticker
+    completion:
+      - external
+  - title: Challenges
+    challenge: true

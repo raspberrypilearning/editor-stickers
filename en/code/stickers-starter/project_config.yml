@@ -1,3 +1,4 @@
 name: 'Stickers - Starter'
 identifier: 'editor-stickers-starter'
 type: 'html'
+build: true

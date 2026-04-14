@@ -1,39 +1,78 @@
-<h2 class="c-project-heading--task">Add your first sticker</h2>
 
---- task ---
+<h2 class="c-project-heading--task">Style the text</h2>
 
-Make an 'I <3 Coding' sticker. 
+### Step 1
 
---- /task ---
+Use CSS to style the text for your sticker.
 
-Add a new sticker in the `index.html`.
+
+
+### Step 2
+
+Click on the file icon, and the `style.css` file.
+
+![screenshot](images/css-file.png)
+
+
+
+### Step 3
+
+Add the CSS code below to style the text that uses the id `coding`.
+
+
+<div class="c-project-callout c-project-callout--tip">
+
+### Tip
+
+An `id` is added to HTML, and used in the CSS so the styles are changed in the right place.
+
+</div>
+
+
+### Step 4
+
+Experiment with the font. You could try changing the `font-family` to: 
+- `Impact`
+- `Comic Sans MS`
+- `Trebuchet MS`. 
+
+You can also change the font-weight and the font-size.
+
 
 <div class="c-project-code">
 --- code ---
 ---
-language: html
-filename: index.html
+language: css
+filename: style.css
 line_numbers: true
-line_number_start: 7
-line_highlights: 9
+line_number_start: 5
+line_highlights: 11-17
 ---
-<body>
+.sticker {
+  display: inline-block;
+  vertical-align: top;
+  margin: 5px;
+}
 
-  <div class="sticker" id="coding">I <3 <br> Coding</div>
-
-</body>
+#coding {
+  font-size: 40px;
+  font-weight: bold;
+  color: black;
+  font-family: "Courier New";
+  text-align: center;
+}
 --- /code ---
 </div>
---- task ---
+### Step 5
 
-**Run** your code. Try adding your own text.
+**Run** your code. See how it has changed the style.
 
---- /task ---
+
 
 
 
 <div class="c-project-output">
 
-![ADD](images/step2.png)
+![ADD](images/step3.png)
 
 </div>

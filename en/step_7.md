@@ -1,58 +1,46 @@
-<h2 class="c-project-heading--task">Add an image sticker</h2>
-
---- task ---
-
-Make some new stickers with robot images.
-
---- /task ---
+<h2 class="c-project-heading--task">Style the image sticker</h2>
 
 
---- task ---
+### Step 1
 
-Choose an image from the pictures tab.
+In **style.css** add styles for `#purplerobot`. Add backgrounds and rounded corners behind your robot images.
 
-![The sidebar with image gallery selected](images/images.png){:style=“width:50%;“}
-
---- /task ---
-
---- task ---
-
-In `index.html`, add the code below.
-
---- /task ---
 
 
 <div class="c-project-code">
 
 --- code ---
 ---
-language: html
-filename: index.html
+language: css
+filename: style.css
 line_numbers: true
-line_number_start: 9
-line_highlights: 13-15
+line_number_start: 32
+line_highlights: 41-45
 ---
-    <div class="sticker" id="coding">I &lt;3 <br> Coding</div>
-    <div class="sticker" id="web">HTML &amp; CSS</div>
-    <div class="sticker" id="save">Save the <br>Robots</div>
+#save {
+  font-size: 40px;
+  color: white;
+  background: linear-gradient(green, yellow, orange, red, purple, blue);
+  padding: 30px;
+  border-radius: 5px;
+  text-align: center;
+}
 
-    <div class="sticker" id="purplerobot">
-      <img src="purplerobot.png">
-    </div>
-
-  </body>
+#purplerobot {
+  background: radial-gradient(gray, purple);
+  padding: 20px;
+  border-radius: 150px;
+}
 --- /code ---
 </div>
---- task ---
+### Step 2
 
 **Test:** Click **Run** to see the styles change.
 
---- /task ---
 
 
 
 <div class="c-project-output">
 
-![ADD](images/step7.png)
-
+![ADD](images/step8.png)
 </div>

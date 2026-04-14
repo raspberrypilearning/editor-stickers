@@ -1,63 +1,44 @@
-<h2 class="c-project-heading--task">Style the background</h2>
+<h2 class="c-project-heading--task">Add more stickers</h2>
 
---- task ---
+### Step 1
 
-Add to how the sticker looks with a gradient background and padding.
-
---- /task ---
+Add two more sticker messages to your page.
 
 
---- task ---
+### Step 2
 
-Add to the CSS with the code below.
-
---- /task ---
-
-
---- task ---
-
-Try replacing `red` and `magenta` with other options. You can find more CSS colours [here](http://jumpto.cc/colours){:target="_blank"}.
-
---- /task ---
-
---- task ---
-
-Experiment with `padding` and `border-radius` to change how the sticker looks.
-
---- /task ---
+In `index.html`, add some more stickers with the code below. 
 
 
 <div class="c-project-code">
+
 --- code ---
 ---
-language: css
-filename: style.css
+language: html
+filename: index.html
 line_numbers: true
-line_number_start: 12
-line_highlights: 18-20
+line_number_start: 7
+line_highlights: 10-11
 ---
-#coding {
-  font-size: 40px;
-  font-weight: bold;
-  color: black;
-  font-family: Courier New;
-  text-align: center;
-  background: linear-gradient(red, magenta);
-  padding: 50px 30px;
-  border-radius: 20px;
-}
+  <body>
+
+    <div class="sticker" id="coding">I <3 <br> Coding</div>
+    <div class="sticker" id="web">HTML & CSS</div>
+    <div class="sticker" id="save">Save the <br>Robots</div>
+  
+  </body>
 --- /code ---
 </div>
---- task ---
+### Step 3
 
-**Run** your code. See how it has changed the style.
+**Test:** Click **Run**. You should see your two new text.
 
---- /task ---
+
 
 
 
 <div class="c-project-output">
 
-![ADD](images/step4.png)
+![ADD](images/step5.png)
 
 </div>

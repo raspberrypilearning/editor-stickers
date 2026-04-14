@@ -1,48 +1,81 @@
-<h2 class="c-project-heading--task">Style the image sticker</h2>
+
+<h2 class="c-project-heading--task">Challenges</h2> 
+
+### Step 1
+
+Make more stickers using different gradient directions and adding images and text and using borders and outlines. 
 
 
---- task ---
 
-In **style.css** add styles for `#purplerobot`. Add backgrounds and rounded corners behind your robot images.
+### Step 2
 
---- /task ---
+### Change the gradient direction
 
+Edit your gradients to run in different directions. 
+
+You can use `to` to change the direction. For example: `to top`, `to left`, or `to right`. For a diagonal gradient you give two directions. This example uses `to bottom left`.
 
 <div class="c-project-code">
-
 --- code ---
 ---
 language: css
 filename: style.css
-line_numbers: true
-line_number_start: 32
-line_highlights: 41-45
+line_numbers: false
 ---
-#save {
-  font-size: 40px;
-  color: white;
-  background: linear-gradient(green, yellow, orange, red, purple, blue);
-  padding: 30px;
-  border-radius: 5px;
-  text-align: center;
-}
 
-#purplerobot {
-  background: radial-gradient(gray, purple);
-  padding: 20px;
-  border-radius: 150px;
-}
+background: linear-gradient(to bottom left, white, yellow, tomato);
+
 --- /code ---
 </div>
---- task ---
 
-**Test:** Click **Run** to see the styles change.
 
---- /task ---
+
+### Step 3
+
+### Make outlines
+
+This uses `outline` to create another border outside the usual one. 
+`outline-offset` gives the gap between the border and the outline. 
+
+<div class="c-project-code">
+--- code ---
+---
+language: css
+filename: style.css
+line_numbers: false
+---
+outline: 4px solid tomato;
+outline-offset: 2px;
+
+--- /code ---
+</div>
+
+
+
+
+### Step 4
+
+### Rotate 
+
+Rotate text or images by using `transform: rotate` in your CSS.
+
+<div class="c-project-code">
+--- code ---
+---
+language: css
+filename: style.css
+line_numbers: false
+---
+transform: rotate(-15deg);
+--- /code ---
+</div>
 
 
 
 <div class="c-project-output">
 
-![ADD](images/step8.png)
+Here are some examples of sticker experiments
+
+![A group of five colourful digital stickers.](images/stickers-finished.png)
+
 </div>

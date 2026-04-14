@@ -1,47 +1,66 @@
-<h2 class="c-project-heading--task">Add more stickers</h2>
+<h2 class="c-project-heading--task">Style the new stickers</h2>
 
---- task ---
+### Step 1
 
-Add two more sticker messages to your page.
+Use gradients, shadows, and padding to style your new stickers.
 
---- /task ---
 
---- task ---
+### Step 2
 
-In `index.html`, add some more stickers with the code below. 
+In **style.css** add styles for `#web` and `#save`. Experiment with the CSS until you are happy with the look.
 
---- /task ---
 
 <div class="c-project-code">
 
 --- code ---
 ---
-language: html
-filename: index.html
+language: css
+filename: style.css
 line_numbers: true
-line_number_start: 7
-line_highlights: 10-11
+line_number_start: 12
+line_highlights: 23-30, 32-39
 ---
-  <body>
+#coding {
+  font-size: 40px;
+  font-weight: bold;
+  color: black;
+  font-family: Courier New;
+  background: linear-gradient(red, magenta);
+  padding: 50px 30px;
+  border-radius: 20px;
+  text-align: center;
+}
 
-    <div class="sticker" id="coding">I <3 <br> Coding</div>
-    <div class="sticker" id="web">HTML & CSS</div>
-    <div class="sticker" id="save">Save the <br>Robots</div>
-  
-  </body>
+#web {
+  font-size: 40px;
+  font-family: Impact;
+  text-shadow: 2px 2px grey;
+  background: radial-gradient(yellow, orange, red);
+  padding: 30px;
+  border-radius: 100px;
+}
+
+#save {
+  font-size: 40px;
+  color: white;
+  background: linear-gradient(green, yellow, orange, red, purple, blue);
+  padding: 30px;
+  border-radius: 5px;
+  text-align: center;
+}
 --- /code ---
 </div>
---- task ---
 
-**Test:** Click **Run**. You should see your two new text.
+### Step 3
 
---- /task ---
+**Test:** Click **Run** to see the styles change.
+
 
 
 
 
 <div class="c-project-output">
 
-![ADD](images/step5.png)
+![ADD](images/step6.png)
 
 </div>

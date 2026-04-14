@@ -1,69 +1,54 @@
-<h2 class="c-project-heading--task">Style the new stickers</h2>
+<h2 class="c-project-heading--task">Add an image sticker</h2>
 
---- task ---
+### Step 1
 
-Use gradients, shadows, and padding to style your new stickers.
+Make some new stickers with robot images.
 
---- /task ---
 
---- task ---
 
-In **style.css** add styles for `#web` and `#save`. Experiment with the CSS until you are happy with the look.
+### Step 2
 
---- /task ---
+Choose an image from the pictures tab.
+
+![The sidebar with image gallery selected](images/images.png){:style=“width:50%;“}
+
+
+### Step 3
+
+In `index.html`, add the code below.
+
+
 
 <div class="c-project-code">
 
 --- code ---
 ---
-language: css
-filename: style.css
+language: html
+filename: index.html
 line_numbers: true
-line_number_start: 12
-line_highlights: 23-30, 32-39
+line_number_start: 9
+line_highlights: 13-15
 ---
-#coding {
-  font-size: 40px;
-  font-weight: bold;
-  color: black;
-  font-family: Courier New;
-  background: linear-gradient(red, magenta);
-  padding: 50px 30px;
-  border-radius: 20px;
-  text-align: center;
-}
+    <div class="sticker" id="coding">I &lt;3 <br> Coding</div>
+    <div class="sticker" id="web">HTML &amp; CSS</div>
+    <div class="sticker" id="save">Save the <br>Robots</div>
 
-#web {
-  font-size: 40px;
-  font-family: Impact;
-  text-shadow: 2px 2px grey;
-  background: radial-gradient(yellow, orange, red);
-  padding: 30px;
-  border-radius: 100px;
-}
+    <div class="sticker" id="purplerobot">
+      <img src="purplerobot.png">
+    </div>
 
-#save {
-  font-size: 40px;
-  color: white;
-  background: linear-gradient(green, yellow, orange, red, purple, blue);
-  padding: 30px;
-  border-radius: 5px;
-  text-align: center;
-}
+  </body>
 --- /code ---
 </div>
-
---- task ---
+### Step 4
 
 **Test:** Click **Run** to see the styles change.
-
---- /task ---
 
 
 
 
 <div class="c-project-output">
 
-![ADD](images/step6.png)
+![ADD](images/step7.png)
 
 </div>
