@@ -2,14 +2,17 @@
 
 Make some new stickers with robot images.
 
-### Step 1
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
+
+## Step 1
 
 Choose an image from the pictures tab.
 
+<div class="c-project-output">
 ![The sidebar with image gallery selected](images/images.png){:style=“width:50%;“}
+</div>
 
-
-### Step 2
+## Step 2
 
 In `index.html`, add the code below.
 
@@ -36,9 +39,10 @@ line_highlights: 13-15
   </body>
 --- /code ---
 </div>
-### Step 3
 
-**Test:** Click **Run** to see the styles change.
+## Now run your code
+
+Click **Run** to see the styles change.
 
 
 
@@ -48,3 +52,5 @@ line_highlights: 13-15
 ![ADD](images/step7.png)
 
 </div>
+
+Confirm the observable result.

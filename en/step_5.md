@@ -2,7 +2,7 @@
 
 Use gradients, shadows, and padding to style your new stickers.
 
-### Step 1
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
 
 In **style.css** add styles for `#web` and `#save`. Experiment with the CSS until you are happy with the look.
 
@@ -48,9 +48,9 @@ line_highlights: 23-30, 32-39
 --- /code ---
 </div>
 
-### Step 2
+## Now run your code
 
-**Test:** Click **Run** to see the styles change.
+Click **Run** to see the styles change.
 
 
 
@@ -61,3 +61,5 @@ line_highlights: 23-30, 32-39
 ![ADD](images/step6.png)
 
 </div>
+
+Confirm the observable result.

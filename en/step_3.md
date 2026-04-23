@@ -2,18 +2,17 @@
 
 Add to how the sticker looks with a gradient background and padding.
 
-### Step 1
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
+
+## Step 1
 
 Add to the CSS with the code below.
 
-
-
-### Step 2
+## Step 2
 
 Try replacing `red` and `magenta` with other options. You can find more CSS colours [here](http://jumpto.cc/colours){:target="_blank"}.
 
-
-### Step 3
+## Step 3
 
 Experiment with `padding` and `border-radius` to change how the sticker looks.
 
@@ -40,7 +39,8 @@ line_highlights: 18-20
 }
 --- /code ---
 </div>
-### Step 4
+
+## Step 4
 
 **Run** your code. See how it has changed the style.
 
@@ -52,3 +52,7 @@ line_highlights: 18-20
 ![ADD](images/step4.png)
 
 </div>
+
+## Now run your code
+
+Confirm the observable result.

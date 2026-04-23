@@ -2,7 +2,9 @@
 
 Make an 'I <3 Coding' sticker.
 
-### Step 1
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
+
+## Step 1
 
 Add a new sticker in the `index.html`.
 
@@ -22,7 +24,8 @@ line_highlights: 9
 </body>
 --- /code ---
 </div>
-### Step 2
+
+## Step 2
 
 **Run** your code. Try adding your own text.
 
@@ -34,3 +37,7 @@ line_highlights: 9
 ![ADD](images/step2.png)
 
 </div>
+
+## Now run your code
+
+Confirm the observable result.

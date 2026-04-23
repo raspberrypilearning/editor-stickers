@@ -2,7 +2,7 @@
 
 Add two more sticker messages to your page.
 
-### Step 1
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
 
 In `index.html`, add some more stickers with the code below. 
 
@@ -26,9 +26,10 @@ line_highlights: 10-11
   </body>
 --- /code ---
 </div>
-### Step 2
 
-**Test:** Click **Run**. You should see your two new text.
+## Now run your code
+
+Click **Run**. You should see your two new text.
 
 
 
@@ -39,3 +40,5 @@ line_highlights: 10-11
 ![ADD](images/step5.png)
 
 </div>
+
+Confirm the observable result.

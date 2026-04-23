@@ -1,8 +1,10 @@
 <h2 class="c-project-heading--task">Style the image sticker</h2>
 
-In **style.css** add styles for `#purplerobot`. Add backgrounds and rounded corners behind your robot images.
+In **style.css** add styles for `#purplerobot`.
 
-### Step 1
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
+
+Add backgrounds and rounded corners behind your robot images.
 
 <div class="c-project-code">
 
@@ -30,9 +32,10 @@ line_highlights: 41-45
 }
 --- /code ---
 </div>
-### Step 2
 
-**Test:** Click **Run** to see the styles change.
+## Now run your code
+
+Click **Run** to see the styles change.
 
 
 
@@ -41,3 +44,5 @@ line_highlights: 41-45
 
 ![ADD](images/step8.png)
 </div>
+
+Confirm the observable result.

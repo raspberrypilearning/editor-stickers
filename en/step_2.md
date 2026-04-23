@@ -1,31 +1,31 @@
-
 <h2 class="c-project-heading--task">Style the text</h2>
 
 Use CSS to style the text for your sticker.
 
-### Step 1
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
+
+## Step 1
 
 Click on the file icon, and the `style.css` file.
 
+<div class="c-project-output">
 ![screenshot](images/css-file.png)
+</div>
 
-
-
-### Step 2
+## Step 2
 
 Add the CSS code below to style the text that uses the id `coding`.
 
 
-<div class="c-project-callout c-project-callout--tip">
-
 ### Tip
+
+<div class="c-project-callout c-project-callout--tip">
 
 An `id` is added to HTML, and used in the CSS so the styles are changed in the right place.
 
 </div>
 
-
-### Step 3
+## Step 3
 
 Experiment with the font. You could try changing the `font-family` to: 
 - `Impact`
@@ -59,7 +59,8 @@ line_highlights: 11-17
 }
 --- /code ---
 </div>
-### Step 4
+
+## Step 4
 
 **Run** your code. See how it has changed the style.
 
@@ -72,3 +73,7 @@ line_highlights: 11-17
 ![ADD](images/step3.png)
 
 </div>
+
+## Now run your code
+
+Confirm the observable result.

@@ -1,9 +1,10 @@
-
-<h2 class="c-project-heading--task">Challenges</h2> 
+<h2 class="c-project-heading--task">Challenges</h2>
 
 Make more stickers using different gradient directions and adding images and text and using borders and outlines.
 
-### Step 1
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
+
+## Step 1
 
 ### Change the gradient direction
 
@@ -24,9 +25,7 @@ background: linear-gradient(to bottom left, white, yellow, tomato);
 --- /code ---
 </div>
 
-
-
-### Step 2
+## Step 2
 
 ### Make outlines
 
@@ -46,10 +45,7 @@ outline-offset: 2px;
 --- /code ---
 </div>
 
-
-
-
-### Step 3
+## Step 3
 
 ### Rotate 
 
@@ -75,3 +71,7 @@ Here are some examples of sticker experiments
 ![A group of five colourful digital stickers.](images/stickers-finished.png)
 
 </div>
+
+## Now run your code
+
+Confirm the observable result.
