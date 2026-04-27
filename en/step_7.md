@@ -35,14 +35,9 @@ line_highlights: 41-45
 
 ## Now run your code
 
-Click **Run** to see the styles change.
-
-
-
-
 <div class="c-project-output">
 
 ![ADD](images/step8.png)
 </div>
 
-Confirm the observable result.
+Click **Run** and check that the purple robot sticker now has its own background and rounded shape.

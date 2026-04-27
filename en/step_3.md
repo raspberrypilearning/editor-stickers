@@ -55,4 +55,4 @@ line_highlights: 18-20
 
 ## Now run your code
 
-Confirm the observable result.
+Run your code and check that the sticker now has a colourful background and rounded corners.

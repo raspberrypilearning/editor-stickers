@@ -74,4 +74,4 @@ Here are some examples of sticker experiments
 
 ## Now run your code
 
-Confirm the observable result.
+Run your code and check that your stickers rotate or change in the way you styled them.

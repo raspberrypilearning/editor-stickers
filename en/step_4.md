@@ -29,16 +29,10 @@ line_highlights: 10-11
 
 ## Now run your code
 
-Click **Run**. You should see your two new text.
-
-
-
-
-
 <div class="c-project-output">
 
 ![ADD](images/step5.png)
 
 </div>
 
-Confirm the observable result.
+Click **Run** and check that the two new sticker texts appear.

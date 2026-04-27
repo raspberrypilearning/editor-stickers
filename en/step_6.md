@@ -42,15 +42,10 @@ line_highlights: 13-15
 
 ## Now run your code
 
-Click **Run** to see the styles change.
-
-
-
-
 <div class="c-project-output">
 
 ![ADD](images/step7.png)
 
 </div>
 
-Confirm the observable result.
+Click **Run** and check that the purple robot image appears as a new sticker.

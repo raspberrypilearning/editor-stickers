@@ -76,4 +76,4 @@ line_highlights: 11-17
 
 ## Now run your code
 
-Confirm the observable result.
+Run your code and check that the `I <3 Coding` sticker now has the new text style.

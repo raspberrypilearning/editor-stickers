@@ -50,16 +50,10 @@ line_highlights: 23-30, 32-39
 
 ## Now run your code
 
-Click **Run** to see the styles change.
-
-
-
-
-
 <div class="c-project-output">
 
 ![ADD](images/step6.png)
 
 </div>
 
-Confirm the observable result.
+Click **Run** and check that the sticker styles change on the page.

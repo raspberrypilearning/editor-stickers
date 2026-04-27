@@ -40,4 +40,4 @@ line_highlights: 9
 
 ## Now run your code
 
-Confirm the observable result.
+Run your code and check that your first sticker appears with the text you added.
