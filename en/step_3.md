@@ -2,8 +2,6 @@
 
 Add to how the sticker looks with a gradient background and padding.
 
-<h2 class="c-project-heading--explainer">Follow these instructions</h2>
-
 ## Step 1
 
 Add to the CSS with the code below.

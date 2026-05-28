@@ -2,8 +2,6 @@
 
 Add two more sticker messages to your page.
 
-<h2 class="c-project-heading--explainer">Follow these instructions</h2>
-
 In `index.html`, add some more stickers with the code below. 
 
 

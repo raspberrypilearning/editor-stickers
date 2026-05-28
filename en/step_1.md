@@ -2,8 +2,6 @@
 
 Make an 'I <3 Coding' sticker.
 
-<h2 class="c-project-heading--explainer">Follow these instructions</h2>
-
 ## Step 1
 
 Add a new sticker in the `index.html`.

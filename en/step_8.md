@@ -2,8 +2,6 @@
 
 Make more stickers using different gradient directions and adding images and text and using borders and outlines.
 
-<h2 class="c-project-heading--explainer">Follow these instructions</h2>
-
 ## Step 1
 
 ### Change the gradient direction

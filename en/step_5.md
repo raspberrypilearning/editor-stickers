@@ -2,8 +2,6 @@
 
 Use gradients, shadows, and padding to style your new stickers.
 
-<h2 class="c-project-heading--explainer">Follow these instructions</h2>
-
 In **style.css** add styles for `#web` and `#save`. Experiment with the CSS until you are happy with the look.
 
 
