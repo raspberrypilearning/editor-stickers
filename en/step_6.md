@@ -2,8 +2,6 @@
 
 Make some new stickers with robot images.
 
-<h2 class="c-project-heading--explainer">Follow these instructions</h2>
-
 ## Step 1
 
 Choose an image from the pictures tab.
