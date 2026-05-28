@@ -2,8 +2,6 @@
 
 In **style.css** add styles for `#purplerobot`.
 
-<h2 class="c-project-heading--explainer">Follow these instructions</h2>
-
 Add backgrounds and rounded corners behind your robot images.
 
 <div class="c-project-code">
