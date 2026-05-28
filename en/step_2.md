@@ -2,8 +2,6 @@
 
 Use CSS to style the text for your sticker.
 
-<h2 class="c-project-heading--explainer">Follow these instructions</h2>
-
 ## Step 1
 
 Click on the file icon, and the `style.css` file.
