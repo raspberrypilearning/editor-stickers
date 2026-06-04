@@ -46,4 +46,4 @@ line_highlights: 13-15
 
 </div>
 
-Click **Run** and check that the purple robot image appears as a new sticker.
+Click **Run** and check that the robot image you picked appears as a new sticker.

@@ -1,6 +1,6 @@
 <h2 class="c-project-heading--task">Style the background</h2>
 
-Add to how the sticker looks with a gradient background and padding.
+Make the sticker look nicer with a gradient background and padding.
 
 ## Step 1
 
@@ -53,4 +53,4 @@ line_highlights: 18-20
 
 ## Now run your code
 
-Run your code and check that the sticker now has a colourful background and rounded corners.
+Run your code and check that the sticker has a colourful background and rounded corners.

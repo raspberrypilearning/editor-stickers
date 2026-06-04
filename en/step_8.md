@@ -1,6 +1,6 @@
 <h2 class="c-project-heading--task">Challenges</h2>
 
-Make more stickers using different gradient directions and adding images and text and using borders and outlines.
+Make more stickers! Use different gradient directions, add images and text, and try different borders and outlines.
 
 ## Step 1
 
@@ -8,7 +8,7 @@ Make more stickers using different gradient directions and adding images and tex
 
 Edit your gradients to run in different directions. 
 
-You can use `to` to change the direction. For example: `to top`, `to left`, or `to right`. For a diagonal gradient you give two directions. This example uses `to bottom left`.
+You can use `to` to change the direction. For example: `to top`, `to left`, or `to right`. For a diagonal gradient, you give two directions. This example uses `to bottom left`.
 
 <div class="c-project-code">
 --- code ---

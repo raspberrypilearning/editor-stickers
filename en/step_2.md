@@ -19,19 +19,9 @@ Add the CSS code below to style the text that uses the id `coding`.
 
 <div class="c-project-callout c-project-callout--tip">
 
-An `id` is added to HTML, and used in the CSS so the styles are changed in the right place.
+An `id` is added to HTML, and used in the CSS, to change the styles in the right places.
 
 </div>
-
-## Step 3
-
-Experiment with the font. You could try changing the `font-family` to: 
-- `Impact`
-- `Comic Sans MS`
-- `Trebuchet MS`. 
-
-You can also change the font-weight and the font-size.
-
 
 <div class="c-project-code">
 --- code ---
@@ -58,9 +48,19 @@ line_highlights: 11-17
 --- /code ---
 </div>
 
+## Step 3
+
+Experiment with the font. You could try changing the `font-family` to: 
+- `Impact`
+- `Comic Sans MS`
+- `Trebuchet MS` 
+
+You can also change the font-weight and the font-size.
+
+
 ## Step 4
 
-**Run** your code. See how it has changed the style.
+**Run** your code. See how the style has changed.
 
 
 
@@ -74,4 +74,4 @@ line_highlights: 11-17
 
 ## Now run your code
 
-Run your code and check that the `I <3 Coding` sticker now has the new text style.
+Run your code and check that the `I <3 Coding` sticker has the new text style.
