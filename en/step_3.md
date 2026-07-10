@@ -1,4 +1,4 @@
-<h2 class="c-project-heading--task">Style the background</h2>
+## Style the background
 
 Make the sticker look nicer with a gradient background and padding.
 
@@ -6,25 +6,7 @@ Make the sticker look nicer with a gradient background and padding.
 
 Add to the CSS with the code below.
 
-## Step 2
-
-Try replacing `red` and `magenta` with other options. You can find more CSS colours [here](http://jumpto.cc/colours){:target="_blank"}.
-
-## Step 3
-
-Experiment with `padding` and `border-radius` to change how the sticker looks.
-
-
-
-<div class="c-project-code">
---- code ---
----
-language: css
-filename: style.css
-line_numbers: true
-line_number_start: 12
-line_highlights: 18-20
----
+```css filename="style.css" line_numbers="true" line_number_start="12" line_highlights="18-20"
 #coding {
   font-size: 40px;
   font-weight: bold;
@@ -35,22 +17,18 @@ line_highlights: 18-20
   padding: 50px 30px;
   border-radius: 20px;
 }
---- /code ---
-</div>
+```
 
-## Step 4
+## Step 2
 
-**Run** your code. See how it has changed the style.
+Try replacing `red` and `magenta` with other options. You can find more CSS colours [here](http://jumpto.cc/colours){:target="_blank"}.
 
+## Step 3
 
-
-
-<div class="c-project-output">
-
-![ADD](images/step4.png)
-
-</div>
+Experiment with `padding` and `border-radius` to change how the sticker looks.
 
 ## Now run your code
 
 Run your code and check that the sticker has a colourful background and rounded corners.
+
+![ADD](images/step4.png)

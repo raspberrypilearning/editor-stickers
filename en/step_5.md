@@ -1,20 +1,10 @@
-<h2 class="c-project-heading--task">Style the new stickers</h2>
+## Style the new stickers
 
 Use gradients, shadows, and padding to style your new stickers.
 
 In **style.css** add styles for `#web` and `#save`. Experiment with the CSS until you are happy with the look.
 
-
-<div class="c-project-code">
-
---- code ---
----
-language: css
-filename: style.css
-line_numbers: true
-line_number_start: 12
-line_highlights: 23-30, 32-39
----
+```css filename="style.css" line_numbers="true" line_number_start="12" line_highlights="23-30,32-39"
 #coding {
   font-size: 40px;
   font-weight: bold;
@@ -43,15 +33,10 @@ line_highlights: 23-30, 32-39
   border-radius: 5px;
   text-align: center;
 }
---- /code ---
-</div>
+```
 
 ## Now run your code
 
-<div class="c-project-output">
+Click **Run** and check that the sticker styles change on the page.
 
 ![ADD](images/step6.png)
-
-</div>
-
-Click **Run** and check that the sticker styles change on the page.
