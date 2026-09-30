@@ -4,4 +4,4 @@ Create fun stickers you can use to decorate webpages.
 
 Click **Run** to open the finished webpage. Try the interactive elements to see how the project works.
 
-<iframe src="https://editor.raspberrypi.org/en/embed/viewer/stickers-complete" width="400" height="710" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
+<iframe src="https://editor.raspberrypi.org/en/embed/viewer/editor-stickers-complete" width="400" height="710" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
